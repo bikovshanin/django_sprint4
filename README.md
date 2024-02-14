@@ -7,11 +7,9 @@
 
 ### _Технологии:_
 
-* Python 3.9
-* Django
-* SQLite
-* HTML
-* Pillow
+[![pre-commit](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3111/)
+[![pre-commit](https://img.shields.io/badge/Django-3.2-092E20?logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.2/releases/3.2/)
+
 
 ### _Возможности проекта:_
 * регистрация пользователей
